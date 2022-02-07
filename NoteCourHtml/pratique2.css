@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Supermercado One", cursive;
+  src: url("https://fonts.googleapis.com/css2?family=Supermercado+One&display=swap");
+}
+
+body {
+  background: url("../images/background.jpg") scroll no-repeat top left;
+  font-family: "Supermercado One", cursive;
+}
+
+.p-experience {
+  color: white;
+  text-align: justify;
+}
+
+.header-picture {
+  border: 2px solid black;
+  box-shadow: 2px 2px 5px white;
+}
